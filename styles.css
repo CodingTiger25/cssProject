@@ -1,0 +1,17 @@
+.flex-container{
+    display: flex;
+}
+
+.header-div {
+    background: black;
+    width: 100%;
+    height: 200px;
+}
+
+.header-logo-div{
+    background: navy;
+    display: flex;
+    width: auto;
+    height: 290px;
+    color: white;
+}
